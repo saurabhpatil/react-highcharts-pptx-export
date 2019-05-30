@@ -1,0 +1,10 @@
+# Visual Studio files
+.vscode/*
+api/.vscode/*
+
+# Ignore node cache
+.cache
+.DS_Store
+
+# All node modules
+node_modules/
