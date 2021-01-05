@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "demo.jsx",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "highcharts": "latest",
     "highcharts-react-official": "1.1.0",
     "jquery": "3.3.1",
